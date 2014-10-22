@@ -1,0 +1,19 @@
+{
+    "name": "xjtuwangke/tencnet-xg",
+    "description": "腾讯信鸽推送 服务端PHP SDK.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dodge",
+            "email": "dodgepudding@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "TencentXinge": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
